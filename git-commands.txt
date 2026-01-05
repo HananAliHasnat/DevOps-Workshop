@@ -2,37 +2,4 @@ git status
 git add test.py
 git status
  git rm --cached testing.py
- git rm --cached test.py
- git status
-   78  git add.
-   79  git add .
-   80  git status
-   81  git add -m "added testing files"
-   82  git commit  -m "added testing files"
-   83  git comit  -m "added testing files"
-   84  git commit  -m "added testing files"
-   85  git config
-   86  git commit -m "added testing files"
-   87  git config --global user.name "cinematic production"
-   88  git commit -m "added testing files"
-   89  whoami
-   90  sudo git commit -m "added testing files"
-   91  git config --global user.name uthor identity unknown
-   92  *** Please tell me who you are.
-   93  to set your account's default identity.
-   94  Omit --global to set the identity only in this repo
-   95  git config --global user.email "hasnathunzai@gmail.com"
-   96  git config --global user.name "HananAliHasnat"
-   97  git commit -m "added testing files"
-   98  git status
-   99  ls
-  100  rm test.py
-  101  git status
-  102  git restore test.py
-  103  clear
-  104  git status
-  105  ls
-  107  git remote -v
-  108  git status
-  109  git push origin master
-  110  git remote -v
+this is git 
